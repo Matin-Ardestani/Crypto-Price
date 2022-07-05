@@ -1,2 +1,2 @@
 # crypto-price-prediction
-Check different cryptocurrencies prices and predict its future price.
+Check different cryptocurrencies prices and predict their future price.
