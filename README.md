@@ -1,6 +1,6 @@
 # Cryptocurrencies Price
 
-With ```CeckInfos.ipynb``` file you can choose your desired cryptocurrency and check its information.
+With ```CheckCrypto.ipynb``` file you can choose your desired cryptocurrency and check its information.
 
 ```MatPlotLib```, ```Numpy``` and ```Pandas``` have been used in this program.
 
