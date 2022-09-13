@@ -21,4 +21,4 @@ $ pip install -r requirments
 Once you installed them, you can run the files with Jupyter NoteBook
 
 # More Information
-Website: [matinardestani.com](https://matinardestani.com)
+Social Media: [MatinArdestani](https://bioly.io/MatinArdestani)
